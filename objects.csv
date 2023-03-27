@@ -1,0 +1,11 @@
+﻿name,subType,value,type
+Bear1,HOST,192.168.1.1,networkobject
+Bear2,HOST,192.168.1.2,networkobject
+Bear3,HOST,192.168.1.3,networkobject
+Bear4,HOST,192.168.1.4,networkobject
+Bear5,HOST,192.168.1.5,networkobject
+Bear6,HOST,192.168.1.6,networkobject
+Bear7,HOST,192.168.1.7,networkobject
+Bear8,HOST,192.168.1.8,networkobject
+Bear9,HOST,192.168.1.9,networkobject
+Bear10,HOST,192.168.1.10,networkobject

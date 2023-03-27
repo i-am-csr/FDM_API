@@ -1,0 +1,3 @@
+﻿name,objects,type
+BearGroup1,"Bear1,Bear2",networkobjectgroup
+BearGroup2,"Bear3,Bear4,Bear5,Bear6",networkobjectgroup

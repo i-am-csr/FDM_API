@@ -1,0 +1,27 @@
+# Versions list:
+#  - 1 - 6.2.3
+#  - 2 - 6.3
+#  - 3 - 6.4
+#  - 4 - 6.5
+#  - 5 - 6.6
+#  - 6 - 6.7, 7.0, 7.2, 7.3
+---
+devices:
+  - hostname: FDM_CLEU2023
+    ipaddr:   10.48.26.180
+    port: 4444
+    username: admin
+    password: Admin!123
+    version: 6
+  - hostname: FDM_Customer_A
+    ipaddr: 192.168.45.45
+    port: 443
+    username: admin
+    password: Admin123
+    version: 5
+  - hostname: FDM_Customer_B
+    ipaddr: 192.168.100.45
+    port: 443
+    username: admin
+    password: iAmCustomerB
+    version: 5
